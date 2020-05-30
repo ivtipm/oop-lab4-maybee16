@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\bin\Debug\DataBase.exe
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\bin\Debug\DataBase.pdb
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\obj\Debug\DataBase.exe
+C:\Users\HP\Desktop\OOP2\lab4\DataBase\obj\Debug\DataBase.pdb
